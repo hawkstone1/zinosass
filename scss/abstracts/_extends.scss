@@ -1,0 +1,11 @@
+// -----EXTENDS------
+%btn {
+  font-size: 1.4rem;
+  padding: .8rem 1.6rem;
+  margin-right: .5rem;
+  border: 1px solid $color-secondary;
+  border-radius: 5px;
+  cursor: pointer;
+  color: $color-dark;
+  transition: all .3s;
+}
